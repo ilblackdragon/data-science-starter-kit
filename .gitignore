@@ -1,0 +1,10 @@
+# Ignore all temproray, log and avatar files
+*.pyc
+*.swp
+*~
+.svn
+.git
+*.log
+build/
+dist/
+Thumbs.db
