@@ -1,0 +1,22 @@
+
+# Basic requirements for your Data Science project
+
+# Utilities 
+cython
+lockfile
+https://github.com/ilblackdragon/pymisc/archive/master.zip
+
+# Reporting
+prettytable
+
+# Best Python interpreter
+ipython
+
+# Basic Python science packages
+numpy
+https://github.com/scipy/scipy/archive/master.zip
+
+# Data science
+https://github.com/pydata/pandas/archive/master.zip
+scikit-learn
+
