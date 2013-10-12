@@ -19,19 +19,22 @@ Requirements
 Installation
 ------------
 
-git clone https://github.com/ilblackdragon/data-science-starter-kit.git
-cd data-science-starter-kit
-./install.sh
+Run next commands for installation::
+
+  git clone https://github.com/ilblackdragon/data-science-starter-kit.git
+  cd data-science-starter-kit
+  ./install.sh
 
 Setup new project
 -----------------
 
-cd data-science-starter-kit
-./create-project.sh ~/projects/myproject
+To setup new project run next commands::
+
+    cd data-science-starter-kit
+    ./create-project.sh ~/projects/myproject
 
 License
 -------
 
-Copyright (C) 2013 Illia Polosukhin
-This program is licensed under the MIT License (see LICENSE)
-
+See the file ``LICENSE.txt`` for information on the history of this 
+software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES.
